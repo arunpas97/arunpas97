@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanasai&label=Profile%20views&color=0e75b6&style=flat" alt="saravanasai" /> </p>
 </h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br>
 <br>
-<h3> 👨🏻‍💻 About Me </h3>
+<!-- <h3> 👨🏻‍💻 About Me </h3> -->
 
 <!-- - 🔭 &nbsp; I’m currently learning Node js Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
