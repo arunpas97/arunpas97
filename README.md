@@ -18,7 +18,7 @@
 - 🎓 &nbsp; Studying Master of computer applications and Mathematics.
 - 💼 &nbsp; Full Stack PHP Developer & Vue.Js Developer.
 - 🌱 &nbsp; Enthusiast in open source contribution .
- -->
+ 
 <br>
 <br>
 
@@ -35,3 +35,4 @@
 #### Version Control 
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <br>
+-->
